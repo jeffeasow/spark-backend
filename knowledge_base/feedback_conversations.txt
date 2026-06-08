@@ -1,0 +1,51 @@
+How to give and receive feedback in Indian workplaces
+
+Giving feedback is one of the hardest skills in Indian corporate culture.
+There is a strong cultural tendency to avoid direct criticism to preserve
+harmony and respect. This leads to vague feedback that nobody can act on,
+and performance issues that fester unaddressed.
+
+The SBI model works well in Indian contexts:
+Situation — describe the specific situation
+Behaviour — describe the specific behaviour you observed
+Impact — describe the impact it had
+
+Example of weak feedback: "You need to be more proactive."
+Example of SBI feedback: "In yesterday's client call (Situation), you
+waited for the client to ask questions rather than presenting our
+recommendations (Behaviour). This made us look underprepared and the
+client asked if we had done the analysis (Impact)."
+
+The second version is harder to say but infinitely more useful.
+
+Tips for giving feedback to peers in India:
+- Choose a private setting — never give critical feedback in front of others
+- Start by acknowledging what is working — not as a formula but genuinely
+- Be specific about the behaviour, not the person
+- Focus on future change, not past blame
+- Check for understanding — ask them to reflect back what they heard
+
+Giving feedback upward (to your manager) in India:
+This is genuinely difficult in hierarchical Indian corporate culture.
+Most employees avoid it entirely. When you do give upward feedback:
+- Frame it as a request, not a complaint
+- Use "I" statements: "I find it hard to prioritise when I receive
+  tasks from multiple directions — could we align on a weekly priority?"
+- Pick the right moment — not when your manager is stressed or rushed
+- One specific, actionable point lands better than a list of grievances
+
+Receiving feedback without becoming defensive:
+The instinct when receiving criticism is to explain or defend.
+Resist this. Instead:
+- Listen fully before responding
+- Ask clarifying questions: "Can you give me a specific example?"
+- Thank the person for the feedback — even if it stings
+- Take 24 hours before deciding whether you agree or disagree
+- Follow up with what you are going to do differently
+
+Feedback culture in Indian startups vs large IT companies:
+Startups tend to have more direct feedback culture.
+Large IT companies like TCS, Infosys, Wipro tend to be more hierarchical
+and feedback flows mostly top-down. In these environments, building a
+relationship of trust with your manager before expecting honest feedback
+is important.

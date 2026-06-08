@@ -1,0 +1,45 @@
+How to write effective emails in an Indian corporate environment
+
+The most common mistake Indian professionals make in emails is burying
+the main point. Most people write three paragraphs of context before
+stating what they actually need. Busy managers read the first two lines
+and move on. Lead with the ask.
+
+Structure every professional email like this:
+1. One line stating what you need or why you are writing
+2. Brief context — two to three sentences maximum
+3. Clear next step or call to action
+
+Subject lines matter more than most people think. A subject line like
+"Update" or "Regarding the project" tells the reader nothing. Be specific.
+Write "Approval needed for Q3 budget by Friday" or "Quick question about
+onboarding process" — the reader knows exactly what to expect.
+
+Tone in Indian corporate emails often swings too formal or too casual.
+Avoid starting with "Respected Sir/Madam" in modern tech and BFSI companies
+— it reads as outdated. Also avoid overly casual openers with senior
+stakeholders. "Hi [First name]" is appropriate for most Indian corporates
+in 2024.
+
+Hedging language weakens your emails. Phrases like "just wanted to check",
+"if it's not too much trouble", "sorry to bother you" signal low confidence.
+Remove them. Your ask is valid — state it directly.
+
+When writing to senior stakeholders:
+- Keep it under 150 words if possible
+- State the decision or input you need upfront
+- Give them an easy way to respond — a yes/no question is better than
+  an open ended one
+- Never send a problem without a proposed solution
+
+Follow up etiquette in India:
+- Wait 2 business days before following up on a non-urgent email
+- One follow up is professional, two starts to feel pushy
+- A good follow up line: "Following up on my email below — happy to
+  discuss if it's easier than replying"
+
+Common mistakes to avoid:
+- Reply all when only one person needs to see it
+- Writing in all caps for emphasis — use bold sparingly instead
+- Sending late night emails and expecting immediate replies
+- CC-ing the boss to apply pressure — this damages relationships
